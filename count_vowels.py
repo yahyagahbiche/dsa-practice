@@ -1,4 +1,4 @@
-#count_vowels(s): count the vowels in a string.
+#problem 1: count_vowels(s): count the vowels in a string.
 # "leetcode" → 4
 
 def count_vowels(word):

@@ -1,4 +1,6 @@
-#print ('hello world!')
+#problem 2: find max in a list
+# nums[0, 5, 9, 10,1]
+# output= 10
 
 
 def find_max(nums):            # declare a function named find_max with (nums) as a parameter
